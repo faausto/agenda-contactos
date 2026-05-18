@@ -16,9 +16,9 @@ de contactos: agregar, ver, buscar, eliminar y guardar en archivo.
 ## Cómo ejecutar
 
 ```bash
-´cd src
-
-python3 agenda.py´
+cd src
+python3 agenda.py
+```
 
 ## Tecnologías
 
