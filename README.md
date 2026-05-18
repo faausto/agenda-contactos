@@ -1,2 +1,31 @@
-# agenda-contactos
-Git, GitHub y Python: Agenda de Contactos Colaborativa
+# 📒 Agenda de Contactos
+
+## Descripción
+
+Aplicación de consola en Python que permite gestionar una agenda
+de contactos: agregar, ver, buscar, eliminar y guardar en archivo.
+
+## Funcionalidades
+
+- Agregar contacto (nombre + teléfono)
+- Ver todos los contactos
+- Buscar contacto por nombre
+- Eliminar contacto
+- Guardar contactos en archivo de texto
+
+## Cómo ejecutar
+
+```bash
+´cd src
+
+python3 agenda.py´
+
+## Tecnologías
+
+- Python 3
+- Git y GitHub
+
+## Equipo
+
+- Fausto Ottino — @faausto
+- Carla Fioritto — @Carla-Fioritto
