@@ -27,5 +27,5 @@ python3 agenda.py
 
 ## Equipo
 
-- Fausto Ottino — @faausto
-- Carla Fioritto — @Carla-Fioritto
+- Fausto Ottino — [@faausto](https://github.com/faausto)
+- Carla Fioritto — [@Carla-Fioritto](https://github.com/Carla-Fioritto)
