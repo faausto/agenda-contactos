@@ -57,7 +57,7 @@ def eliminar_contacto():
     for c in contactos:
         if c["nombre"].lower() == nombre:
             contactos.remove(c)
-            print(f"️ Contacto '{c['nombre']}' eliminado.")
+            print(f"🗑️ Contacto '{c['nombre']}' eliminado.")
             return
 
     print(f"❌ No se encontró el contacto '{nombre}'.")
@@ -100,7 +100,7 @@ def main():
             print("\n¡Hasta luego!")
             break
         else:
-            print("⚠️ Opción no implementada todavía.")
+            print("⚠️ Opción no válida.")
 
 if __name__ == "__main__":
     main()
